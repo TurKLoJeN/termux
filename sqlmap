@@ -1,0 +1,16 @@
+
+______           __ __ __              __     _   __         
+ /_  __/_  _______/ //_// /   ____      / /__  / | / /     
+  / / / / / / ___/ ,<  / /   / __ \__  / / _ \/  |/ /       
+ / / / /_/ / /  / /| |/ /___/ /_/ / /_/ /  __/ /|  /   
+/_/  \__,_/_/  /_/ |_/_____/\____/\____/\___/_/ |_/      
+
+- Komutlar -
+
+git clone https://github.com/sqlmapproject/sqlmap
+cd sqlmap
+python sqlmap.py
+
+- Örnek Komut -
+
+python sqlmap.py -u www.site.com --dbs
